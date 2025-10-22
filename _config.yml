@@ -1,0 +1,7 @@
+# _config.yml
+title: 你的博客标题
+author: 你的名字
+theme: minima  # GitHub Pages 官方主题（可选）
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
