@@ -1,9 +1,10 @@
 ---
 layout: post
-title: my first use markdown
-categories: [博客]
-tags: [Jekyll, Markdown]
+title: Test Article
+date: 2025-10-23
 ---
+
+Hello, this is a test.
 
 这是坤水在高人xihale指点以及详细查阅Qwen资料后半自主用markdown写出的第一篇博客文章！
 
