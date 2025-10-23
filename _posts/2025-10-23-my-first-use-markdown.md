@@ -1,8 +1,8 @@
 ---
-layout:post
-title:my first use markdown
-categories:[博客]
-tags:[Jekyll,Markdown]
+layout: post
+title: my first use markdown
+categories: [博客]
+tags: [Jekyll, Markdown]
 ---
 
 这是坤水在高人xihale指点以及详细查阅Qwen资料后半自主用markdown写出的第一篇博客文章！
