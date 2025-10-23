@@ -1,7 +1,6 @@
 ---
 layout:post
 title:my first use markdown
-date:
 categories:[博客]
 tags:[Jekyll,Markdown]
 ---
