@@ -1,6 +1,6 @@
 ---
 layout: post
-title:my fist use markdown
+title: my fist use markdown
 date: 2025-10-23
 
 ---
