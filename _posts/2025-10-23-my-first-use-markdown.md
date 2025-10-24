@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Test Article
+title:my fist use markdown
 date: 2025-10-23
+
 ---
 
 Hello, this is a test.
